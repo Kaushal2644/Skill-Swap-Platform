@@ -66,3 +66,4 @@ Once logged in as admin, you can:
 
 Note: You can use any password when registering with the admin email - it will automatically grant admin privileges.
 
+
